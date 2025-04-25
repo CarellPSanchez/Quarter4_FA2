@@ -1,1 +1,1 @@
-# Quarter4_FA2
+This is an activity on LG 12.2.
